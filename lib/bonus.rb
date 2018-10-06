@@ -21,7 +21,7 @@ def bonus
           {name: "Nurse", age: "44", attitude: "worried"}
       ]
    }
-  }
+  }end
 
   #code your solution here:
   
