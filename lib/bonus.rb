@@ -7,7 +7,7 @@ def bonus
       :hero_friends => [
          {name: "Benvolio", age: "17", attitude: "worried"},
          {name: "Steven", age: "30", attitude: "confused"}
-       end
+      
       ]
    },
    
@@ -26,6 +26,7 @@ def bonus
   #code your solution here:
   
  epic_tragedy [:montague][:hero][:status]="dead"
+ epic_tragedy [:capulate][:heroine][:status]= "dead"
  
   
 
